@@ -15,6 +15,7 @@
 		8F51B9BE244E26DF008A37D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F51B9BC244E26DF008A37D6 /* LaunchScreen.storyboard */; };
 		8F51B9C9244E26DF008A37D6 /* RoomsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F51B9C8244E26DF008A37D6 /* RoomsTests.swift */; };
 		8F51B9D4244E26DF008A37D6 /* RoomsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F51B9D3244E26DF008A37D6 /* RoomsUITests.swift */; };
+		8F51B9E6244E39AC008A37D6 /* Room.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F51B9E5244E39AC008A37D6 /* Room.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8F51B9CF244E26DF008A37D6 /* RoomsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RoomsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F51B9D3244E26DF008A37D6 /* RoomsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomsUITests.swift; sourceTree = "<group>"; };
 		8F51B9D5244E26DF008A37D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F51B9E5244E39AC008A37D6 /* Room.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Room.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				8F51B9B1244E26DD008A37D6 /* AppDelegate.swift */,
 				8F51B9B3244E26DD008A37D6 /* SceneDelegate.swift */,
 				8F51B9B5244E26DD008A37D6 /* ContentView.swift */,
+				8F51B9E5244E39AC008A37D6 /* Room.swift */,
 				8F51B9B7244E26DF008A37D6 /* Assets.xcassets */,
 				8F51B9BC244E26DF008A37D6 /* LaunchScreen.storyboard */,
 				8F51B9BF244E26DF008A37D6 /* Info.plist */,
@@ -269,6 +272,7 @@
 			files = (
 				8F51B9B2244E26DD008A37D6 /* AppDelegate.swift in Sources */,
 				8F51B9B4244E26DD008A37D6 /* SceneDelegate.swift in Sources */,
+				8F51B9E6244E39AC008A37D6 /* Room.swift in Sources */,
 				8F51B9B6244E26DD008A37D6 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
